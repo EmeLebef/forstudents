@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ЗОНА" id="ЗОНА">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="cn" type="string"></SimpleField>
+	<SimpleField name="area" type="float"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="cb" type="string"></SimpleField>
+	<SimpleField name="sk" type="string"></SimpleField>
+	<SimpleField name="areain" type="float"></SimpleField>
+	<SimpleField name="typecode" type="string"></SimpleField>
+	<SimpleField name="subtype" type="string"></SimpleField>
+	<SimpleField name="subtypec" type="string"></SimpleField>
+	<SimpleField name="par" type="string"></SimpleField>
+	<SimpleField name="cat" type="string"></SimpleField>
+	<SimpleField name="catcode" type="string"></SimpleField>
+	<SimpleField name="use" type="string"></SimpleField>
+	<SimpleField name="usecode" type="string"></SimpleField>
+	<SimpleField name="usen" type="string"></SimpleField>
+	<SimpleField name="usencode" type="string"></SimpleField>
+	<SimpleField name="pugrn" type="string"></SimpleField>
+	<SimpleField name="pugr" type="string"></SimpleField>
+	<SimpleField name="pugrcode" type="string"></SimpleField>
+	<SimpleField name="cost" type="float"></SimpleField>
+	<SimpleField name="np" type="string"></SimpleField>
+	<SimpleField name="noks" type="string"></SimpleField>
+	<SimpleField name="nokscode" type="string"></SimpleField>
+	<SimpleField name="typez" type="string"></SimpleField>
+	<SimpleField name="typec" type="string"></SimpleField>
+	<SimpleField name="number" type="string"></SimpleField>
+	<SimpleField name="index" type="string"></SimpleField>
+	<SimpleField name="dater" type="string"></SimpleField>
+	<SimpleField name="adrtype" type="string"></SimpleField>
+	<SimpleField name="adrtcode" type="string"></SimpleField>
+	<SimpleField name="adrin" type="string"></SimpleField>
+	<SimpleField name="adrref" type="string"></SimpleField>
+	<SimpleField name="adrloc" type="string"></SimpleField>
+	<SimpleField name="other" type="string"></SimpleField>
+	<SimpleField name="fias" type="string"></SimpleField>
+	<SimpleField name="okato" type="string"></SimpleField>
+	<SimpleField name="kladr" type="string"></SimpleField>
+	<SimpleField name="oktmo" type="string"></SimpleField>
+	<SimpleField name="postal" type="string"></SimpleField>
+	<SimpleField name="regionc" type="string"></SimpleField>
+	<SimpleField name="region" type="string"></SimpleField>
+	<SimpleField name="district" type="string"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="udistrict" type="string"></SimpleField>
+	<SimpleField name="soviet" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="street" type="string"></SimpleField>
+	<SimpleField name="level1" type="string"></SimpleField>
+	<SimpleField name="level2" type="string"></SimpleField>
+	<SimpleField name="level3" type="string"></SimpleField>
+	<SimpleField name="apartment" type="string"></SimpleField>
+	<SimpleField name="PNmb" type="string"></SimpleField>
+	<SimpleField name="PKind" type="string"></SimpleField>
+	<SimpleField name="PName" type="string"></SimpleField>
+	<SimpleField name="PKlass" type="string"></SimpleField>
+	<SimpleField name="OrdX" type="float"></SimpleField>
+	<SimpleField name="OrdY" type="float"></SimpleField>
+</Schema>
+<Folder><name>ЗОНА</name>
+  <Placemark>
+	<name>52:18-7.154</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ЗОНА">
+		<SimpleData name="id">82</SimpleData>
+		<SimpleData name="cn">52:18-7.154</SimpleData>
+		<SimpleData name="type">z</SimpleData>
+		<SimpleData name="cb">52:18:0070016</SimpleData>
+		<SimpleData name="sk">52.2</SimpleData>
+		<SimpleData name="typecode">7</SimpleData>
+		<SimpleData name="np">54</SimpleData>
+		<SimpleData name="typez">Общественно-деловая зона</SimpleData>
+		<SimpleData name="typec">218010020000</SimpleData>
+		<SimpleData name="number">52:18-7.154</SimpleData>
+		<SimpleData name="index">ТО-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>44.009649207514,56.3137761167527 44.0100931898421,56.3133457056744 44.0100735699006,56.3133390639629 44.0091836438769,56.313034943997 44.0092407881033,56.312981846124 44.0091055591065,56.3129348234803 44.0088415371816,56.3128427817048 44.0088628430791,56.3128215897259 44.0087512624772,56.3127820344953 44.0084547848721,56.3126770969304 44.0083493144321,56.3126397235086 44.0081994709615,56.3125865288256 44.0080715612853,56.3125477098249 44.0080628718996,56.3125451571017 44.0079489069965,56.3126625794765 44.0077808985522,56.3128307774804 44.0070799775933,56.3126004857238 44.0070765998251,56.3125993931879 44.0068691560523,56.3128020839138 44.0068555795417,56.3128136997311 44.0081038818179,56.3132432539956 44.0081119110504,56.3132353858086 44.0082489006959,56.3132835847743 44.0084921645979,56.3133696095366 44.009649207514,56.3137761167527</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
