@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>12_08_1600101_2026-03-30_conv.kml</name>
+    <open>1</open>
+    <description>Система координат: urn:ogc:def:crs:EPSG::4326</description>
+    <Style id="obj">
+      <LineStyle>
+        <color>7f008000</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f008000</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <LookAt>
+      <longitude>56.62817104518</longitude>
+      <latitude>48.195211060229</latitude>
+      <altitude>0</altitude>
+      <heading>0</heading>
+      <tilt>50</tilt>
+      <range>150</range>
+    </LookAt>
+    <Placemark>
+      <name>12:08:1600101</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>56.626327057875,48.198129981312,0&#13;
+56.627379645454,48.197826393631,0&#13;
+56.630609070323,48.195270876439,0&#13;
+56.6302053798,48.193294039651,0&#13;
+56.629995464846,48.192292139146,0&#13;
+56.625733020036,48.195997918421,0&#13;
+56.626042597293,48.197274978055,0&#13;
+56.626327057875,48.198129981312,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
