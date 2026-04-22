@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Зона_Большакова" id="Зона_Большакова">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="cn" type="string"></SimpleField>
+	<SimpleField name="area" type="float"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="cb" type="string"></SimpleField>
+	<SimpleField name="sk" type="string"></SimpleField>
+	<SimpleField name="areain" type="float"></SimpleField>
+	<SimpleField name="typecode" type="string"></SimpleField>
+	<SimpleField name="subtype" type="string"></SimpleField>
+	<SimpleField name="subtypec" type="string"></SimpleField>
+	<SimpleField name="par" type="string"></SimpleField>
+	<SimpleField name="cat" type="string"></SimpleField>
+	<SimpleField name="catcode" type="string"></SimpleField>
+	<SimpleField name="use" type="string"></SimpleField>
+	<SimpleField name="usecode" type="string"></SimpleField>
+	<SimpleField name="usen" type="string"></SimpleField>
+	<SimpleField name="usencode" type="string"></SimpleField>
+	<SimpleField name="pugrn" type="string"></SimpleField>
+	<SimpleField name="pugr" type="string"></SimpleField>
+	<SimpleField name="pugrcode" type="string"></SimpleField>
+	<SimpleField name="cost" type="float"></SimpleField>
+	<SimpleField name="np" type="string"></SimpleField>
+	<SimpleField name="noks" type="string"></SimpleField>
+	<SimpleField name="nokscode" type="string"></SimpleField>
+	<SimpleField name="typez" type="string"></SimpleField>
+	<SimpleField name="typec" type="string"></SimpleField>
+	<SimpleField name="number" type="string"></SimpleField>
+	<SimpleField name="index" type="string"></SimpleField>
+	<SimpleField name="dater" type="string"></SimpleField>
+	<SimpleField name="adrtype" type="string"></SimpleField>
+	<SimpleField name="adrtcode" type="string"></SimpleField>
+	<SimpleField name="adrin" type="string"></SimpleField>
+	<SimpleField name="adrref" type="string"></SimpleField>
+	<SimpleField name="adrloc" type="string"></SimpleField>
+	<SimpleField name="other" type="string"></SimpleField>
+	<SimpleField name="fias" type="string"></SimpleField>
+	<SimpleField name="okato" type="string"></SimpleField>
+	<SimpleField name="kladr" type="string"></SimpleField>
+	<SimpleField name="oktmo" type="string"></SimpleField>
+	<SimpleField name="postal" type="string"></SimpleField>
+	<SimpleField name="regionc" type="string"></SimpleField>
+	<SimpleField name="region" type="string"></SimpleField>
+	<SimpleField name="district" type="string"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="udistrict" type="string"></SimpleField>
+	<SimpleField name="soviet" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="street" type="string"></SimpleField>
+	<SimpleField name="level1" type="string"></SimpleField>
+	<SimpleField name="level2" type="string"></SimpleField>
+	<SimpleField name="level3" type="string"></SimpleField>
+	<SimpleField name="apartment" type="string"></SimpleField>
+	<SimpleField name="PNmb" type="string"></SimpleField>
+	<SimpleField name="PKind" type="string"></SimpleField>
+	<SimpleField name="PName" type="string"></SimpleField>
+	<SimpleField name="PKlass" type="string"></SimpleField>
+	<SimpleField name="OrdX" type="float"></SimpleField>
+	<SimpleField name="OrdY" type="float"></SimpleField>
+</Schema>
+<Folder><name>Зона_Большакова</name>
+  <Placemark id="Зона_Большакова.1">
+	<name>52:16-6.50</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Зона_Большакова">
+		<SimpleData name="id">281</SimpleData>
+		<SimpleData name="cn">52:16-6.50</SimpleData>
+		<SimpleData name="type">z</SimpleData>
+		<SimpleData name="cb">52:16:0050402</SimpleData>
+		<SimpleData name="sk">52.2</SimpleData>
+		<SimpleData name="typecode">6</SimpleData>
+		<SimpleData name="np">1</SimpleData>
+		<SimpleData name="typez">�������� ���� ���������� ������������</SimpleData>
+		<SimpleData name="number">-</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>43.5879311857856,56.5149158472605 43.5880350302265,56.5149463789287 43.5891537692407,56.5150320954687 43.5897779497136,56.5153065345178 43.5901977532893,56.5159994370813 43.590401586087,56.5163355575449 43.5904594182945,56.5163806403122 43.5909819337996,56.5166035445994 43.5914140376831,56.5167914412334 43.5913078867628,56.5168648058436 43.5916776577853,56.5170250975642 43.5919379145885,56.5168449685989 43.5917976253058,56.5167840724674 43.5917592798166,56.5167199211266 43.591702257678,56.516674845225 43.591193506793,56.5164534872118 43.5907108444781,56.5162478658432 43.590524028155,56.5159390002284 43.5900876724889,56.5152194766495 43.5900317710801,56.5151752169112 43.5893307909876,56.5148671347709 43.5892473024233,56.5148474491361 43.5881442958554,56.514762932968 43.5876508091863,56.5144603096362 43.5871533747455,56.5141535223895 43.5865633221166,56.5137775787934 43.5860074238696,56.5133172954239 43.5850181972045,56.5124906276431 43.5845367085955,56.5121143499456 43.5848234820801,56.5117090161424 43.585118653832,56.5112414180536 43.5854166958525,56.5107756377716 43.585755631123,56.5102407502966 43.5862179405105,56.5099962802925 43.5864946526871,56.5098452992799 43.5865391631211,56.50980028997 43.58687961708,56.5098641814962 43.5869503036849,56.5098693997635 43.5870211277652,56.5098563874146 43.5877554657826,56.5095872567856 43.5893283631177,56.508947224553 43.5895755353083,56.5088652525636 43.5896381891933,56.5088283756329 43.5896590717158,56.5087797697058 43.5896154891245,56.5081909908148 43.590151592827,56.5079037879686 43.5902707215971,56.5078108560056 43.5902938618467,56.5077821156552 43.5903022746764,56.5077512856625 43.5902646162696,56.5073133454652 43.5902008693449,56.5071044014226 43.5905799244207,56.5070411393314 43.5910921439203,56.5069527692492 43.591691748719,56.5069027021612 43.5919744166515,56.5068679704944 43.5922363145739,56.5072317491841 43.5927223032132,56.5075202865862 43.5932417534952,56.5078089899955 43.5937885665443,56.5081143372592 43.5938987665873,56.5081434760728 43.5940162500989,56.5081220174463 43.594137273843,56.5080696011611 43.5942380347679,56.5081059417209 43.5944702246017,56.5079087070658 43.5940834375438,56.5077693079069 43.5939126620362,56.5079141159356 43.5934859950236,56.5076750769417 43.5929700674159,56.5073883775338 43.5925320878334,56.5071282322442 43.5922399052083,56.5067222788967 43.5921586191171,56.5066738725747 43.5920428879764,56.5066646275758 43.5916287430486,56.5067155886711 43.5910148196097,56.5067668022424 43.5904789478493,56.5068593002054 43.5899563651136,56.5069464201134 43.5898572179076,56.5069878648917 43.5898363947372,56.5070534456085 43.5899220500607,56.5073336895527 43.5899557827916,56.5077275921145 43.5898893417809,56.5077794383719 43.5893208042452,56.5080839023853 43.5892811549742,56.50811673598 43.5892682340446,56.5081523808317 43.5893114137911,56.5087311877309 43.5891382817302,56.5087884950956 43.587558171892,56.5094312531777 43.5869103891333,56.5096691708896 43.5865757603306,56.5096062227325 43.5864864957224,56.5096098412405 43.5864115693556,56.5095604925877 43.5861397929116,56.5096898672522 43.5862081817167,56.5097344053541 43.5859780840519,56.5098598819512 43.5854882666435,56.5101194053418 43.5854449274118,56.5101566098132 43.5850939173518,56.5107126878813 43.5847942524257,56.5111782751753 43.5845007742938,56.5116430117246 43.5841828176189,56.5120927384236 43.5841707624146,56.5121388075617 43.5842026323412,56.5121822544779 43.5847339592755,56.5125979885823 43.5857209611817,56.5134225757031 43.5860975167294,56.5137357055445 43.5860823034234,56.5137462749974 43.5860879263423,56.5137487435286 43.5859486380037,56.5138091830997 43.586202711371,56.5140008355661 43.5863549743178,56.5139348382742 43.5868953063559,56.5142792329401 43.5873951401658,56.5145874767852 43.5879311857856,56.5149158472605</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
